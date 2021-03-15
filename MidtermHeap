@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T18:37:21.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="4AeOpG1uub2TnubEd-a4" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T19:01:32.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cek0I4DKi8aIdOl3wZ8F" version="14.4.8" type="github">
   <diagram id="34TkIPEGv3P_3HzALz8s" name="Page-1">
     <mxGraphModel dx="1306" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,6 +68,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="436.71572875253787" y="258.28427124746213" as="sourcePoint" />
             <mxPoint x="358.28427124746213" y="311.71572875253787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kHlBGDv8Js0-a29lv0d-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;In order to follow the min heap ordering property, &lt;br&gt;each node&#39;s value has to be smaller than or equal to its children&#39;s.&lt;br&gt;20 is not &amp;lt;= 19, so it does not follow the min heap property.&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="515" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4kHlBGDv8Js0-a29lv0d-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
