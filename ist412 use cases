@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T02:45:34.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vrisk_nKBmQJB53nKIQF" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T02:54:15.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wvlTHQhXY7ajuqq04CUv" version="14.6.9" type="github">
   <diagram id="Nj7PXDOEX-fRqjDG2_WV" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -22,14 +22,66 @@
         <mxCell id="2NNq5h6rdsMdLPVdDzG2-3" value="Select &quot;Time off&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2NNq5h6rdsMdLPVdDzG2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-4" target="2NNq5h6rdsMdLPVdDzG2-8">
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-4" target="2NNq5h6rdsMdLPVdDzG2-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="350" />
+              <mxPoint x="330" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-4" target="2NNq5h6rdsMdLPVdDzG2-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="350" />
+              <mxPoint x="610" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-4" target="2NNq5h6rdsMdLPVdDzG2-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2NNq5h6rdsMdLPVdDzG2-4" value="Select &quot;New Time-off Request&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-4" target="2NNq5h6rdsMdLPVdDzG2-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="350" />
+              <mxPoint x="750" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-4" value="Select &quot;Create New Request&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2NNq5h6rdsMdLPVdDzG2-8" value="Select the month the request begins in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-8" target="2NNq5h6rdsMdLPVdDzG2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-8" value="Select the day and month the request begins on" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-13" value="Select the day and month the request ends on" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-15" value="Select &quot;Pay Code&quot; option: &quot;Vacation&quot;, &quot;Sick&quot;, &quot;Jury Duty&quot;, etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NNq5h6rdsMdLPVdDzG2-19" target="2NNq5h6rdsMdLPVdDzG2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-19" value="Add text into. &quot;Comments:&quot; (optional)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2NNq5h6rdsMdLPVdDzG2-21" value="Select &quot;Submit Request&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
